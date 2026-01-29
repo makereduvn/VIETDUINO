@@ -23,11 +23,12 @@ Nhờ giữ nguyên chuẩn Arduino, Vietduino giúp người học tiếp cận
 ## Sẵn sàng cho phát triển kỹ thuật & ứng dụng thực tế
 Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho prototype và sản phẩm thực tế, nhờ thiết kế nguồn ổn định và khả năng hoạt động bền bỉ.
 ### Ứng dụng tiêu biểu theo dòng sản phẩm
-#### Vietduino Uno (ATMega328P chính hãng Microchip – tương thích Arduino Uno)
+[#### Vietduino Uno (ATMega328P chính hãng Microchip – tương thích Arduino Uno)](https://github.com/makereduvn/VIETDUINO-UNO)
 - Hệ thống điều khiển nhúng cơ bản
 - Thiết bị đo và giám sát cục bộ
 - Điều khiển tự động đơn giản
 - Prototype mạch điều khiển chi phí thấp
+![Vietduino Uno](/extras/VietduinoUno9.png)
 #### Vietduino ESP32 (Module WiFi/BLE SoC ESP32 ESP-WROOM-32E chính hãng Espressif)
 - Ứng dụng IoT với WiFi và Bluetooth
 - Điều khiển thiết bị qua web/app
@@ -40,4 +41,5 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 - Nhận dạng hình ảnh/âm thanh mức cơ bản (edge AI)
 ## Vietduino – Chuẩn Arduino, tối ưu cho Giáo dục và Phát triển
 Với thiết kế chuẩn Arduino, linh kiện chính hãng, mạch nguồn cải tiến và quy trình kiểm soát chất lượng chặt chẽ, Vietduino là lựa chọn cân bằng giữa hiệu năng – độ bền – chi phí, phù hợp cho cả học tập, nghiên cứu và triển khai ứng dụng thực tế.
+
 
