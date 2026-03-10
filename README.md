@@ -29,11 +29,12 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 - Điều khiển tự động đơn giản
 - Prototype mạch điều khiển chi phí thấp
 ![Vietduino Uno](/extras/VietduinoUno9.png)
-#### Vietduino ESP32 (Module WiFi/BLE SoC ESP32 ESP-WROOM-32E chính hãng Espressif)
+#### [Vietduino ESP32 (Module WiFi/BLE SoC ESP32 ESP-WROOM-32E chính hãng Espressif)](https://github.com/makereduvn/VIETDUINO-ESP32)
 - Ứng dụng IoT với WiFi và Bluetooth
 - Điều khiển thiết bị qua web/app
 - Node cảm biến không dây, smart home
 - Giao tiếp MQTT, HTTP, WebSocket
+![Vietduino ESP32](/extras/VietduinoESP32.png)
 #### Vietduino ESP32-S3 (Module WiFi/BLE SoC ESP32-S3-WROOM-1 chính hãng Espressif)
 - IoT hiệu năng cao
 - Ứng dụng USB native
@@ -41,6 +42,7 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 - Nhận dạng hình ảnh/âm thanh mức cơ bản (edge AI)
 ## Vietduino – Chuẩn Arduino, tối ưu cho Giáo dục và Phát triển
 Với thiết kế chuẩn Arduino, linh kiện chính hãng, mạch nguồn cải tiến và quy trình kiểm soát chất lượng chặt chẽ, Vietduino là lựa chọn cân bằng giữa hiệu năng – độ bền – chi phí, phù hợp cho cả học tập, nghiên cứu và triển khai ứng dụng thực tế.
+
 
 
 
