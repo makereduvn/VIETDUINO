@@ -43,6 +43,5 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 ## Vietduino – Chuẩn Arduino, tối ưu cho Giáo dục và Phát triển
 Với thiết kế chuẩn Arduino, linh kiện chính hãng, mạch nguồn cải tiến và quy trình kiểm soát chất lượng chặt chẽ, Vietduino là lựa chọn cân bằng giữa hiệu năng – độ bền – chi phí, phù hợp cho cả học tập, nghiên cứu và triển khai ứng dụng thực tế.
 
-
-
-
+## Miễn trừ trách nhiệm:
+Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
