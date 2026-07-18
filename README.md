@@ -37,7 +37,7 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 - Thiết bị đo và giám sát cục bộ
 - Điều khiển tự động đơn giản
 - Prototype mạch điều khiển chi phí thấp
-![Vietduino Uno](/extras/VietduinoNano.png)
+![Vietduino Nano](/extras/VietduinoNano.png)
 
 #### [Vietduino Uno (ATMega328P chính hãng Microchip – tương thích Arduino Uno)](https://github.com/makereduvn/VIETDUINO-UNO)
 - Hệ thống điều khiển nhúng cơ bản
