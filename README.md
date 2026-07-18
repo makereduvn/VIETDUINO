@@ -44,7 +44,7 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 - Thiết bị đo và giám sát cục bộ
 - Điều khiển tự động đơn giản
 - Prototype mạch điều khiển chi phí thấp
-![Vietduino Uno](/extras/VietduinoUno9.png)
+![Vietduino Uno](/extras/VietduinoUno.png)
 
 #### [Vietduino ESP32 (Module WiFi/BLE SoC ESP32 ESP-WROOM-32E chính hãng Espressif)](https://github.com/makereduvn/VIETDUINO-ESP32)
 - Ứng dụng IoT với WiFi và Bluetooth
