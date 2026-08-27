@@ -32,19 +32,28 @@ Bên cạnh giáo dục, Vietduino còn là nền tảng đáng tin cậy cho pr
 
 ### Ứng dụng tiêu biểu theo dòng sản phẩm
 
-#### [Vietduino Nano (ATMega328P chính hãng Microchip – tương thích Arduino Nano)](https://github.com/makereduvn/VIETDUINO-NANO)
+#### [Vietduino Nano (ATmega328P-MU chính hãng Microchip – tương thích Arduino Nano)](https://github.com/makereduvn/VIETDUINO-NANO)
+- Thiết bị cần kích thước nhỏ gọn
 - Hệ thống điều khiển nhúng cơ bản
-- Thiết bị đo và giám sát cục bộ
 - Điều khiển tự động đơn giản
 - Prototype mạch điều khiển chi phí thấp
 ![Vietduino Nano](/extras/VietduinoNano.png)
 
-#### [Vietduino Uno (ATMega328P chính hãng Microchip – tương thích Arduino Uno)](https://github.com/makereduvn/VIETDUINO-UNO)
+#### [Vietduino Uno (ATmega328P-PU chính hãng Microchip – tương thích Arduino Uno)](https://github.com/makereduvn/VIETDUINO-UNO)
+- Thiết bị cần kích thước chuẩn form Arduino 
+- Tương thích hệ thống Shield dành cho Arduino
 - Hệ thống điều khiển nhúng cơ bản
-- Thiết bị đo và giám sát cục bộ
 - Điều khiển tự động đơn giản
 - Prototype mạch điều khiển chi phí thấp
 ![Vietduino Uno](/extras/VietduinoUno.png)
+
+#### [Vietduino Mega 2560 (ATmega2560-16AU chính hãng Microchip – tương thích Arduino Mega 2560)](https://github.com/makereduvn/VIETDUINO-MEGA-2560)
+- Thiết bị cần nhiều IO, cổng giao tiếp, chuẩn form Arduino
+- Tương thích hệ thống Shield dành cho Arduino
+- Hệ thống điều khiển nhúng cơ bản
+- Điều khiển tự động đơn giản
+- Prototype mạch điều khiển chi phí thấp
+![Vietduino Uno](/extras/VietduinoMega2560.png)
 
 #### [Vietduino ESP32 (Module WiFi/BLE SoC ESP32 ESP-WROOM-32E chính hãng Espressif)](https://github.com/makereduvn/VIETDUINO-ESP32)
 - Ứng dụng IoT với WiFi và Bluetooth
